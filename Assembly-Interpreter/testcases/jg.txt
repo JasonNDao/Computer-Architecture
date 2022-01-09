@@ -1,0 +1,6 @@
+mov 25 ax
+mov 1 bx
+jg 6 bx ax
+print bx
+add 1 bx
+jmp 2

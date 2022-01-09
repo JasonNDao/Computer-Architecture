@@ -1,0 +1,11 @@
+mov 5 ax
+read bx
+
+
+jge 10 bx ax
+print bx
+add 1 bx
+jmp 2
+
+
+print 9000

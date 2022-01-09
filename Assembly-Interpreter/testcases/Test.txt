@@ -1,0 +1,12 @@
+mov 2 ax
+read bx
+read cx
+read dx
+mul ax bx
+mul bx cx
+mul cx dx
+mov dx ax
+print ax
+div ax ax
+print ax
+print 4000

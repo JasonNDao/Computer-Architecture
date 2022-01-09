@@ -1,0 +1,24 @@
+read bx
+read cx
+read dx
+mul 2 bx
+mul bx cx
+mul cx dx
+
+print dx
+sub 10 dx
+mov 1 ax
+sub ax dx
+print dx
+
+add 20 dx
+mov 5 ax
+add ax dx
+
+
+
+
+print dx
+div 200 dx
+div dx ax
+print ax

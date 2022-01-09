@@ -1,0 +1,21 @@
+read bx
+jge 3 bx 5
+print 1
+jne 5 bx 7
+print 2
+je 7 bx 1
+print 3
+jl 9 bx 9
+print 4
+jle 11 bx 3
+print 5
+jg 13 bx -8
+print 6
+jmp 15
+print 99000
+div 8 bx
+print bx
+jne 19 7 7 
+print 27
+jge 21 -200 bx
+print 28

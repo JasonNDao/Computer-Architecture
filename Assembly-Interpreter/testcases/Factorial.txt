@@ -1,0 +1,11 @@
+read dx
+mov 1 ax
+mov 1 cx
+jle 10 dx 1
+
+jg 10 ax dx
+mul ax cx
+add 1 ax
+jmp 4
+
+print cx
