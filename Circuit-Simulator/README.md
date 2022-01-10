@@ -1,5 +1,5 @@
 # Circuit-Simulator
-This [program](https://github.com/JasonNDao/Circuit-Simulator/blob/main/hw7.pdf) simulates a circuit. (Computer Architecture Fall 2020)
+This [program](https://github.com/JasonNDao/Computer-Architecture/blob/main/Circuit-Simulator/hw7.pdf) simulates a circuit. (Computer Architecture Fall 2020)
 
 # Note:
 If on Windows, before cloning, run `git config --global core.autocrlf input` on git.
