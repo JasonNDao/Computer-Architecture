@@ -1,5 +1,5 @@
 # Computer-Architecture-Project-1
-This is an assortment of basic [programs](https://github.com/JasonNDao/Computer-Architecture-Project-1/blob/main/hw1.pdf) written in C. (Computer Architecture Fall 2020)
+This is an assortment of basic [programs](https://github.com/JasonNDao/Computer-Architecture/blob/main/Computer-Architecture-Project-1/hw1.pdf) written in C. (Computer Architecture Fall 2020)
 
 # Note:
 If on Windows, before cloning, run `git config --global core.autocrlf input` on git.
