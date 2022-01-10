@@ -1,5 +1,5 @@
 # Cache-Simulator
-This [program](https://github.com/JasonNDao/Cache-Simulator/blob/main/hw6.pdf) simulates cache read and writes
+This [program](https://github.com/JasonNDao/Computer-Architecture/blob/main/Cache-Simulator/hw6.pdf) simulates cache read and writes
 
 # Note:
 If on Windows, before cloning, run `git config --global core.autocrlf input` on git.
