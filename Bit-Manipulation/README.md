@@ -1,5 +1,5 @@
 # Bit-Manipulation
-Assortment of [programs](https://github.com/JasonNDao/Bit-Manipulation/blob/main/hw3.pdf) that involve bitwise operations (Computer Architecture Fall 2020)
+Assortment of [programs]https://github.com/JasonNDao/Computer-Architecture/blob/main/Bit-Manipulation/hw3.pdf) that involve bitwise operations (Computer Architecture Fall 2020)
 
 # Note:
 If on Windows, before cloning, run `git config --global core.autocrlf input` on git.
